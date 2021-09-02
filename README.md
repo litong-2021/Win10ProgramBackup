@@ -98,3 +98,17 @@ choco install studio3ter
 
 refreshenv
 ```
+
+### Win10 Dir backup
+```bash
+mkdir -p 1_Program/0_usual/0_install
+mkdir -p 1_Program/0_usual/1_not_install
+
+mkdir -p 1_Program/1_dev/0_usual
+mkdir -p 1_Program/0_usual/1_Java
+mkdir -p 1_Program/0_usual/2_Db
+mkdir -p 1_Program/0_usual/3_Python
+
+mkdir -p 0_Data/0_usual/0_choco
+mkdir -p 0_Data/1_dev/0_Java
+```
