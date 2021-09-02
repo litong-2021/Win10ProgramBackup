@@ -1,4 +1,4 @@
-# Win10ProgramBackup
+# Win10 Program backup
 
 ### Win10 install [Chocolatey](https://chocolatey.org/install)
 ```bash
